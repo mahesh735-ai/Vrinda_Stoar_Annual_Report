@@ -1,4 +1,9 @@
 
+
+<p align="center">
+  <img src="A_README_document_for_a_Vrinda_Store_Annual_Sales_.png" alt="Vrinda Store Logo" width="200"/>
+</p>
+
 # 🧾 Vrinda Store Annual Sales Report – Excel Dashboard Project
 
 ## 📌 Objective
@@ -56,6 +61,14 @@ Target **women aged 30-49** from **Maharashtra, Karnataka, and Uttar Pradesh** u
 - `README.md` – This File
 
 ---
+## 🔗 Connect With Me
+- GitHub: [mahesh735-ai](https://github.com/mahesh735-ai)
+- LinkedIn: [Mahesh Thakare](https://www.linkedin.com/in/mahesh-thakare-75817b2a7)
 
-## 📬 Connect
-Made by **Mahesh Thakare** – Aspiring Data Analyst  
+---
+
+> ⚡ "Turning data into insights, and insights into impact."  
+> 📈 Let's build something amazing together!
+
+---
+
